@@ -34,3 +34,33 @@ I managed Hope College's library website, and I developed a variety of prototype
 *Detroit, MI - June 2014*
 
 I participated in a mobile app challenge hosted by my high school, in which we were rewarded with a month internship at Compuware. I learned application performance management, took a company sponsored certification and passed.
+
+
+#Skills#
+
+I have been involved in many personally motivated side projects to increase my knowledge and understanding outside of the classroom.
+
+###Technologies##
+- iOS SDK
+- Xcode
+- Arduino
+- MySQL
+- MongoDB
+- Linux
+- Amazon AWS (EC2, RDS, S3, Lambda)
+- RESTful APIs
+- HTML
+- Agile
+
+I started developing iOS applications when I was a freshman in highschool ('11).<br>
+My most notable projects include QuickQuestion and RenewU.
+
+##Programming Languages##
+Most experienced in **Swift**, **SQL**, and **JavaScript** <br>
+Some experience in **Objective-C**, **C#**, **Bash**, **NodeJS** systems, Java, and C <br>
+Dabbled with Python, Perl, Racket, Ruby, and PHP
+
+
+#Education#
+
+Enrolled in BS, Computer Science; Hope College
