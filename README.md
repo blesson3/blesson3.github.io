@@ -8,7 +8,7 @@ m@ttblessed.com
 I took the initiative of managing a project where I ended up designing, developing, and deploying a fully automated linux solution that took the project from years to less than a month.
 I converted millions of non-searchable PDFs to a searchable format, increasing efficiency around the company.
 
-I was also given a web/active directory project, which no one could come up with a solution for. I designed, and developed a solution within the scope of my internship that saved the company from buying a very expensive alternative.
+I was given a web/active directory project, which no one could come up with a solution for. I designed, and developed a solution within the scope of my internship that saved the company from buying a very expensive alternative.
 
 I also built an internal iOS application from scratch that you could use to search for where people were around the campus.
 
