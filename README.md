@@ -10,10 +10,19 @@ I converted millions of non-searchable PDFs to a searchable format, increasing e
 
 I was also given a web/active directory project, which no one could come up with a solution for. I designed, and developed a solution within the scope of my internship that saved the company from buying a very expensive alternative.
 
+I also built an internal iOS application from scratch that you could use to search for where people were around the campus.
+
 ##Lead iOS Developer at RenewU (Early stage)
-*Los Angeles, CA (I worked remotely) - July 2015 through October 2015*
+*Los Angeles, CA (remote work) - July 2015 through October 2015*
 
 I was recruited to build an iOS MVP from scratch. The app included native map functionality, and persistent state changes (similar to the Uber ride experience). I collaborated with a designer and completed the app within 4 months, while full-time in school (sophmore at Hope College) starting August.
+
+##CoFounder of QuickQuestion
+*October 2014 through present*
+
+We are creating the next semi-anonymous voting social media platform. QuickQuestion (QQ) is an app targeting millennials for social querying. Social querying will augment daily activities.
+
+I am the sole iOS developer, my responsibilties include managing a team of a designer and another developer to project success.
 
 ##Computer Support Technician (Student position)
 *Holland, MI - January 2015 through May 2016*
