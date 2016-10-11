@@ -5,13 +5,23 @@ m@ttblessed.com
 ##IT Intern at Meijer (Retailer)
 *Grand Rapids, MI - May 2016 through August 2016*
 
-I overtook and managed a project where I designed, developed, and deployed a fully automated linux solution that took the project from years to less than a month.
+I took the initiative of managing a project where I ended up designing, developing, and deploying a fully automated linux solution that took the project from years to less than a month.
 I converted millions of non-searchable PDFs to a searchable format, increasing efficiency around the company.
 
 I was also given a web/active directory project, which no one could come up with a solution for. I designed, and developed a solution within the scope of my internship that saved the company from buying a very expensive alternative.
 
 ##Lead iOS Developer at RenewU (Early stage)
-*July 2015 through October 2015*
-Los Angeles (I worked remotely from Holland, MI)
+*Los Angeles, CA (I worked remotely) - July 2015 through October 2015*
 
-I was recruited to build an iOS MVP* from scratch. The app included native map functionality, and persistent state changes (similar to the Uber ride experience).
+I was recruited to build an iOS MVP from scratch. The app included native map functionality, and persistent state changes (similar to the Uber ride experience). I collaborated with a designer and completed the app within 4 months, while full-time in school (sophmore at Hope College) starting August.
+
+##Computer Support Technician (Student position)
+*Holland, MI - January 2015 through May 2016*
+
+I was recommended for this position by a CS professor.
+I managed Hope College's library website, and I developed a variety of prototypes from ideas around the office. These ideas inspired me to become more experienced with Windows systems, databases, and gaming engines (Unity). I also wrote technical documentation for systems I developed.
+
+##Internship at Compuware
+*Detroit, MI - June 2014*
+
+I participated in a mobile app challenge hosted by my high school, in which we were rewarded with a month internship at Compuware. I learned application performance management, took a company sponsored certification and passed.
