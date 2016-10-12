@@ -46,6 +46,7 @@ I have been involved in many personally motivated side projects to increase my k
 - Arduino
 - MySQL
 - MongoDB
+- NodeJS
 - Linux
 - Amazon AWS (EC2, RDS, S3, Lambda)
 - RESTful APIs
@@ -57,7 +58,7 @@ My most notable projects include QuickQuestion and RenewU.
 
 ##Programming Languages##
 Most experienced in **Swift**, **SQL**, and **JavaScript** <br>
-Some experience in **Objective-C**, **C#**, **Bash**, **NodeJS** systems, HTML, Java, and C <br>
+Some experience in **Objective-C**, **C#**, **Bash**, HTML, Java, and C <br>
 Dabbled with Python, Perl, Racket, Ruby, and PHP
 
 
