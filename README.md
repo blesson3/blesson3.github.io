@@ -9,15 +9,17 @@ Enrolled in BS, Computer Science; Hope College
 ##CoFounder of QuickQuestion
 *October 2014 through present*
 
-* QuickQuestion (QQ) is an app targeting millennials for social querying. Social querying will augment daily activities.
+* Manage product development team through regular meetings, KPI development to ensure successful milestone progress, and go to market stategy development with cofounder.
 
-* Managing a team of a designer and another developer to project success.
+* Develop front and backend solutions using a combination of NodeJS and Swift to ensure reliability and availability throughout the product.
 
 ##IT Intern at Meijer (Retailer)
 *Grand Rapids, MI - May 2016 through August 2016*
 
-* Managed a project where I ended up designing, developing, and deploying a fully automated linux solution that took the project from years to less than a month.
+* Managed PDF OCR project; designed, developed, and deployed a fully automated linux solution reducing estimated project completion from years to less than a month.
+
 * Converted millions of non-searchable PDFs to a searchable format, increasing efficiency around the company. 
+
 * This project initiated a massive collaborative effort between different IT teams.
 
 * Designed, and developed a solution within the scope of my internship that saved the company from buying a very expensive alternative.
@@ -60,5 +62,3 @@ Dabbled with Python, Perl, Racket, Ruby, and PHP
 * Worked on a team to redesign a website for CAC-Kids
 
 * Lead of a team to create an iOS app that helped kids build character and face their challenges positively.
-
-
