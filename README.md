@@ -5,8 +5,8 @@ m@ttblessed.com
 
 Enrolled in BS, Computer Science; Hope College
 
-#Work History#
-##CoFounder of QuickQuestion
+#Professional Experience#
+##CoFounder at QuickQuestion
 *October 2014 through present*
 
 * Manage product development team through regular meetings, KPI development to ensure successful milestone progress, and go to market stategy development with cofounder.
@@ -20,7 +20,7 @@ Enrolled in BS, Computer Science; Hope College
 
 * Converted millions of non-searchable PDFs to a searchable format, increasing efficiency around the company. 
 
-* This project initiated a massive collaborative effort between different IT teams.
+* Initiated a massive collaborative effort between different IT teams.
 
 * Designed, and developed a solution within the scope of my internship that saved the company from buying a very expensive alternative.
 
