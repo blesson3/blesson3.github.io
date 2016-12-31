@@ -13,6 +13,15 @@ Enrolled in BS, Computer Science; Hope College
 
 * Develop front and backend solutions using a combination of NodeJS and Swift to ensure reliability and availability throughout the product.
 
+##Lead Developer at Stealth (startup)
+*August 2016 through present*
+
+* Worked as R&D project lead with Matt England, cofounder of Cleversafe.
+
+* Created initial prototype for requirements elicitation and architectural development of significant new networking technology.
+
+* Developed, from scratch, client and server network services in Python and NodeJS.
+
 ##IT Intern at Meijer (Retailer)
 *Grand Rapids, MI - May 2016 through August 2016*
 
