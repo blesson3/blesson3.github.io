@@ -6,15 +6,6 @@ m@ttblessed.com
 Enrolled in BS, Computer Science; Hope College
 
 #Professional Experience#
-##Lead Developer at Stealth (startup)
-*August 2016 through present*
-
-* Worked as R&D project lead with Matt England, cofounder of Cleversafe.
-
-* Created initial prototype for requirements elicitation and architectural development of significant new networking technology.
-
-* Developed, from scratch, client and server network services in Python and NodeJS.
-
 ##CoFounder at QuickQuestion
 *October 2014 through present*
 
