@@ -6,6 +6,15 @@ m@ttblessed.com
 Enrolled in BS, Computer Science; Hope College
 
 #Professional Experience#
+##CoFounder at Impulse
+*October 2016 through present*
+
+* Manage a product team of a designer and a marketer to achieve product success
+
+* Quickly built an MVP (minimal viable product) with core features
+
+* Developed the front and backend solutions using Swift and NodeJS hosted through DigitalOcean
+
 ##CoFounder at QuickQuestion
 *October 2014 through present*
 
