@@ -168,6 +168,14 @@ body{
     border:1px solid rgb(0, 0, 0, 0.08);
 }
 
+#website-link {
+  color: white;
+}
+
+#email-link {
+  color: white;
+}
+
 #header {
     width:63vw;
     text-align:right;
