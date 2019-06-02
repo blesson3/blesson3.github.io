@@ -26,7 +26,7 @@
     </div>
     <div id="display">
         <div id="work">
-            <h1>Work.</h1>
+            <h1>Work/Play.</h1>
             <div class="projects" id="work_section">
                         <a href="https://github.com/blesson3/DraggableImageView" target="_blank">
                         <section>
@@ -222,10 +222,12 @@
         }, 1500);
         $.getJSON("blog.json", function (blog) {
             blog = blog || [];
-            if (blog.length == 0) {
-                return document.getElementById("blog_section").style.display = "none";
-            }
+            
+            let visibleBlogs = 0;
             for (var i = 0; i < blog.length; i++) {
+              if (!blog[i].visible) continue;
+              visibleBlogs += 1;
+
                 $("#blogs").append(`
             <a href="./blog/${blog[i].url_title}/" target="_blank">
                 <section>
@@ -239,6 +241,10 @@
                 </section>
             </a>
             `);
+            }
+
+            if (blog.length == 0 || visibleBlogs === 0) {
+                return document.getElementById("blog_section").style.display = "none";
             }
         }).fail(function () {
             return document.getElementById("blog_section").style.display = "none";
