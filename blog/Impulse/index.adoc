@@ -12,7 +12,7 @@ How to Use Slack (with threads) (coming soon...)
 
 == Developers
 
-link:swift-debugging.html[Swift Debug a Crash/Bug]
+link:Impulse/swift-debugging.html[Swift Debug a Crash/Bug]
 
 Swift Formatting Guide (coming soon...)
 // link:swift-formatting.html[Swift Formatting Guide]
