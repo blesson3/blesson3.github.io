@@ -1,7 +1,10 @@
 = Swift Debugging
 
 Written by Matt Blessed for the Impulse Developers
+
 2019-06-03
+
+NOTE: This post is under construction and it's contents/url may change without notice.
 
 == Purpose
 
