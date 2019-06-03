@@ -1,0 +1,18 @@
+= Impulse (interim-)Wiki
+
+This is the _public_ (for now) Impulse Wiki, see below for documents.
+
+== General Team
+
+How to Report Bugs (coming soon...)
+// link:bug-reporting.html[How to Report Bugs]
+
+How to Use Slack (with threads) (coming soon...)
+// link:slack-how-to-use.html[How to Use Slack (with threads)]
+
+== Developers
+
+link:swift-debugging.html[Swift Debug a Crash/Bug]
+
+Swift Formatting Guide (coming soon...)
+// link:swift-formatting.html[Swift Formatting Guide]
