@@ -7,8 +7,7 @@ This is the _public_ (for now) Impulse Wiki, see below for documents.
 How to Report Bugs (coming soon...)
 // link:bug-reporting.html[How to Report Bugs]
 
-How to Use Slack (with threads) (coming soon...)
-// link:slack-how-to-use.html[How to Use Slack (with threads)]
+link:Impulse/slack-how-to-use.html[How to Use Slack (with threads)]
 
 == Developers
 

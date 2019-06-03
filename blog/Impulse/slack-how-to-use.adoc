@@ -1,0 +1,34 @@
+:imagesdir: ./images
+
+= Slack
+
+We ❤️ Slack threads.
+
+== General Formatting/Style
+
+Slack has a great
+link:https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages[help
+post] on this.
+
+.Common styles:
+. \*Bold* = *Bold* +
+. \_Italics_ = _Italics_ +
+. _`Code` = `Code`
+
+
+== How to start a conversation/topic
+
+. Find the appropriate Slack channel
+. Make a top *Topic* post using the `\*Topic*` format (i.e. \*How to Use
+Slack Threads*)
+. Post the first message in the thread under the single *Topic* post using
+the *Reply to thread* button on the post
+
+.The result should look something like this
+image::slack-thread-button.png[Slack Thread button,700]
+
+NOTE: Make sure to post in the thread when replying, do not post to the
+whole channel when replying
+
+.This is what we want all of our Slack channels to look like!
+image::slack-threaded-channel.png[Slack Threaded Channel, 500]
