@@ -1,0 +1,77 @@
+= Swift Debugging
+
+Written by Matt Blessed for the Impulse Developers
+2019-06-03
+
+== Purpose
+
+The purpose of this document is to provide standard and Impulse-specific
+Swift/Xcode debugging techniques and procedures. The audience of this document
+is Impulse iOS developers.
+
+A bug is any aspect of the Impulse app that is not represented to the user as
+intended by the Impulse Product team. Including
+
+. layout/UI malfunction (i.e. views are squashed together)
+. data mis-representation (i.e. votes display incorrect numbers)
+. #Todo: add more...#
+
+== Bug Report Format
+
+Here’s the standard format for a bug report:
+
+```
+Post/Thread in AskImpulse Slack #bugs
+
+Slack top level: *[short description of the issue]*
+Thread comments:
+* [detailed bug description]
+* [how to reproduce the issue]
+* [other details?]
+* [image/movie links]
+```
+
+See the link:bug-reporting.adoc[bug repos doc] for more info.
+
+[#reproduce-factors]
+== Factors for Reproducing
+
+The following are factors that are important to consider when attempting to
+reproduce a bug.
+
+- Device iOS (are they on a beta?)
+- Device type (iPhone 8 vs XR)
+- Follow the steps to reproduce in the bug report format
+- Build number
+- Build version
+- Environment (Production vs. Beta vs. Development)
+- Video evidence (notice the small details)
+
+== Xcode
+
+There are many many resources on how to debug an exception (usual cause of a
+crash) using Xcode.
+
+https://duckduckgo.com/?q=xcode+how+to+debug
+
+https://ericgoebelbecker.com/2019/05/debug-ios-applications/
+
+https://digitalleaves.com/debug-ios-apps-xcode-ii-lets-debug/
+
+== Troubleshooting
+
+If you are having trouble reproducing the reported bug, try the following:
+
+Note: ordered in least-work to most-work
+
+. *Ask for more information:* have the reporter to clarify: steps to reproduce
+and <<reproduce-factors, factors for reproducing>>
+. *Check for crash logs:* see firebase.google.com -> Crashlytics for crash
+reports and stack traces
+. *Walk the code (brute-force):* go to the section of the project where you
+might believe the code is crashing and check for implicit unwrapping `variable!`
+or potential invalid values for variables that may cause the app to crash.
+"Walk" the code by going through function calls and variable inputs.
+. *Plug in their device:* if you are geographically close to the team member
+experiencing a crash, then have them plug their device into your Xcode and have
+them reproduce. 
