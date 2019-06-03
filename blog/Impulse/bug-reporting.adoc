@@ -1,0 +1,20 @@
+= Bug Reporting
+
+```
+Post/Thread in AskImpulse Slack #bugs
+
+Slack top level: *[short description of the issue]*
+Thread comments:
+* [detailed bug description]
+* [how to reproduce the issue]
+* [other details?]
+* [image/movie links]
+```
+
+== Purpose
+This makes it super easy for developers to go through and parse bug reports. The
+easier it is for us to identify and understand the issue, the faster we’re able
+to work on fixing the bug! Please put effort into these descriptions. The fewer
+questions we need to ask to get information the better.
+
+Thank you!
