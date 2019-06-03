@@ -34,7 +34,7 @@ Thread comments:
 * [image/movie links]
 ```
 
-See the link:bug-reporting.adoc[bug repos doc] for more info.
+See the link:bug-reporting.html[bug repos doc] for more info.
 
 [#reproduce-factors]
 == Factors for Reproducing
