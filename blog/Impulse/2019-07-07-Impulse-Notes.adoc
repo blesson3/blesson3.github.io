@@ -8,8 +8,8 @@
 * Handle more than one image in the `ShareViewController.swift` file
 ** Specifically the line using `ShareExtensionConstants.IMAGE_DATA_KEY1` because
   the image data will always be overwritten by the last image
-** It seems as though Apple doesn't want extensions to "link back" to your app
-   they want it all handled in `ShareViewController.swift`.
+* It seems as though Apple doesn't want extensions to "link back" to your app
+  they want it all handled in `ShareViewController.swift`.
 ** As an exercise: share images through other services, notice they never link back
    to the host app. We may want to consider only showing the 
    `QuestionPreviewViewController.swift`.
