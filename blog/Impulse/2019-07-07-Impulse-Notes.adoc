@@ -1,0 +1,22 @@
+= 2019-07-07 Impulse Notes 
+
+ShareExtension Code Review
+
+.@antonio Todo
+* Add Remote Action named: `.postSharedMedia` or something similar
+* Handle appropriately in the ImpulseViewController `execute` function
+* Handle more than one image in the `ShareViewController.swift` file
+** Specifically the line using `ShareExtensionConstants.IMAGE_DATA_KEY1` because
+  the image data will always be overwritten by the last image
+
+.Notes
+* SGImageCache didn't work because it didn't know where to write the data on the
+  disk. iOS uses groups to determine read/write permissions (apparently...), so
+  I re-implemented UserDefaults using groups.
+* Always use constants `static let CONSTANT = "some_string"` whenever dealing
+  with strings
+** See the `ShareExtensionConstants.swift` file that I created for more info
+* The lines in `CameraViewController.swift:handleShareActivityAction()`
+  utilizing `updateState` and `didPressContinueButton` is excellent
+* Notice how I changed the `sharedActivitiesURI` to a type of share instead of
+  the image key being set
