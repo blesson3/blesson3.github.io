@@ -440,9 +440,9 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <h1>2019-07-07 Impulse Notes</h1>
 </div>
 <div id="content">
-<div class="paragraph">
-<p>ShareExtension Code Review</p>
-</div>
+<div class="sect1">
+<h2 id="_shareextension_code_review">ShareExtension Code Review</h2>
+<div class="sectionbody">
 <div class="ulist">
 <div class="title">@antonio Todo</div>
 <ul>
@@ -459,6 +459,15 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <li>
 <p>Specifically the line using <code>ShareExtensionConstants.IMAGE_DATA_KEY1</code> because
 the image data will always be overwritten by the last image</p>
+</li>
+<li>
+<p>It seems as though Apple doesn&#8217;t want extensions to "link back" to your app
+they want it all handled in <code>ShareViewController.swift</code>.</p>
+</li>
+<li>
+<p>As an exercise: share images through other services, notice they never link back
+to the host app. We may want to consider only showing the
+<code>QuestionPreviewViewController.swift</code>.</p>
 </li>
 </ul>
 </div>
@@ -495,9 +504,11 @@ the image key being set</p>
 </ul>
 </div>
 </div>
+</div>
+</div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2019-07-07 13:42:19 -0400
+Last updated 2019-07-07 13:45:36 -0400
 </div>
 </div>
 </body>
