@@ -1,0 +1,14 @@
+= 2019-08-06 Impulse Notes: Responses Camera Feedback 
+
+.@antonio Todo
+* QuestionTextView on queue when responding w/ text overlaps notch
+* Red camera placeholder button needs to be replaced with camera icon
+* Go button for responses should do nothing.
+
+.Notes/Done
+* (Fixed) [Critical bug] MainStackView.swift:~405
+** StackView hidden for questions not conforming to Question.
+* (Fixed) ResponseCameraDelegate func rename for clarity
+** Always start delegate functions with some prefix of their parent name
+** (i.e. `responseCamera...`)
+* (Fixed) Clear response media after voting
