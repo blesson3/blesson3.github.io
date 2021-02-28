@@ -1,0 +1,8 @@
+= 2019-08-15 Impulse Notes: Responses Camera Feedback 
+
+.@antonio Todo
+* Rename `ResponsesCameraView` => `ResponsesCameraViewController`
+* Add formatting like: `// MARK - EmojiButtonBarViewDelegate` to `extension
+  ResponseCameraView` and similar
+
+.Notes/Done
