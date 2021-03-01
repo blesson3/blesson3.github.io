@@ -13,4 +13,3 @@ gitfolio build blesson3 --theme dark --order desc --linkedin "${LINKEDIN}"
 mkdir -p "${OUT_DIR}"
 mv ./dist/* "${OUT_DIR}"
 rm -rf ./dist
-
